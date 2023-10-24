@@ -1,0 +1,103 @@
+:root {
+  --primary-color: #0086D4;
+  --secondary-color: #FDBE14;
+}
+body{
+  background-color: #0086D4;
+}
+
+.fighome {
+  text-align: center;
+  width: 400px;
+  height: 400px;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+}
+
+h3 {
+  text-align: center;
+  font-size: 40px;
+  color: white;
+  font-family: sans-serif;
+}
+
+.txtintro { 
+  text-align: center;
+  font-size: 40px;
+  color: white;
+  font-family: sans-serif;
+}
+
+button {
+  top:50;
+  text-align: center;
+  display: block;
+  margin : auto;
+  border-radius: 5%;
+  font-size: 50px;
+  background-color: #FDBE14;
+  padding: 20px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-family: sans-serif;
+
+}
+
+.questions{
+  width:auto;
+  background-color:white;
+  font-size: 40px;
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin: 60px;
+  margin-bottom: 15px;
+  border-radius: 3%;
+  font-family: sans-serif;
+ }
+
+
+img.imgquestion {
+  margin: 10px 50px 20px 0;
+  float: left;
+  width: 200px;
+  height: 300px;
+  border-width: 100px;
+  padding: 60px;
+
+}
+
+label {
+  margin-bottom: 30px;
+}
+
+.msgfinal {
+  width: 800px;
+  height: 800px;
+background-color: white;
+  border-radius: 50%;
+  display: block;
+  margin : auto;
+  margin-top: 50px;
+  justify-content : center;
+  align-items: center;
+}
+
+img.imgresult {
+  width: 270.367px;
+  height: 200px; 
+  display: block;
+  margin : auto;
+  padding-top: 150px;
+}
+
+.txtfinal{
+  text-align: center;
+  font-size: 40px;
+  color: black;
+  font-family: sans-serif;
+
+}
